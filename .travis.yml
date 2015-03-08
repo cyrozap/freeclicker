@@ -1,4 +1,3 @@
 language: c
-cache: apt
 install: sudo apt-get install gcc-avr avr-libc avrdude
 script: make
