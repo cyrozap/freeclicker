@@ -1,6 +1,7 @@
 # freeclicker
 
 [![Build Status](https://travis-ci.org/cyrozap/freeclicker.svg?branch=master)](https://travis-ci.org/cyrozap/freeclicker)
+[![GPLv3+ License](http://img.shields.io/badge/license-GPLv3+-blue.svg)](https://www.gnu.org/licenses/gpl.html)
 
 freeclicker is a free (as in freedom) re-implementation of the firmware used on
 AVR-based i>clicker devices.
